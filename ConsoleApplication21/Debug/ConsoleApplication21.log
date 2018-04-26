@@ -1,0 +1,3 @@
+﻿  ConsoleApplication21.cpp
+c:\users\msi\source\repos\consoleapplication21\consoleapplication21.cpp(13): warning C4477: „printf”: ciąg formatu „%s” wymaga argumentu typu „char *”, ale argument 1 ze zmienną liczbą argumentów ma typ „int”
+  ConsoleApplication21.vcxproj -> C:\Users\MSI\source\repos\ConsoleApplication21\Debug\ConsoleApplication21.exe
